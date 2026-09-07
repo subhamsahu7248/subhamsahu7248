@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Subham 👋
 
-<!--
-**subhamsahu7248/subhamsahu7248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+💻 Java | Data Structures & Algorithms | Spring Boot  
+🤖 Interested in Machine Learning & Deep Learning
 
-Here are some ideas to get you started:
+Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Data Structures & Algorithms
+- Spring Boot
+- SQL
+- Machine Learning
+
+Technologies
+
+- Java
+- C/C++
+- JavaScript
+- React
+- Spring Boot
+- SQL
+- Git & GitHub
+
+Featured Projects
+
+- Rajdhani Care — Home Service Booking Platform
+- Java DSA — Data Structures & Algorithms Practice
+
+Goal - To become a skilled software developer and build real-world applications.
